@@ -12,22 +12,7 @@
       ],
       "TITLE": "HOME"
       
-    "Pets": {
-      "DESC": "How to use the pet system",
-      "LINES": [
-        'To capture a pet, pet mode must be enabled by using <red>/pet<end>''
-        'To capture with pet mode look at the pet and press <red>"E"<end>''
-        'To release your pet forever use <red>/free<end>' 
-        'To move your pet to a specific location look at the area then press <red>"E"<end>'
-        'To have your pet follow press both <red>"E" & "R"<end> use the same command to have your pet unfollow'
-        'To have your pet attack an npc or another player simply look at the target and press <red>"E"<end> and your pet will attack that target'
-        'To check your pets health, thirst, and sleepiness use <red>/pet info<end>'
-        'To recover your pets thirst and sleepiness use <red>/sleep<end> to wake up simply give a move command'
-        
-        ]
-    
-  
-    },
+    }
     "map": {
       "DESC": "Learn how to use the Live Map",
       "LINES": [
