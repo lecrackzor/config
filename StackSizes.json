@@ -1,0 +1,122 @@
+{
+  "Config": {
+    "items": [
+      {
+        "name": "bone_fragments",
+        "stackSize": 100000
+      },
+      {
+        "name": "charcoal",
+        "stackSize": 1000000
+      },
+      {
+        "name": "cloth",
+        "stackSize": 100000
+      },
+      {
+        "name": "fat_animal",
+        "stackSize": 100000
+      },
+      {
+        "name": "gunpowder",
+        "stackSize": 100000
+      },
+      {
+        "name": "lowgradefuel",
+        "stackSize": 100000
+      },
+      {
+        "name": "metal_fragments",
+        "stackSize": 100000
+      },
+      {
+        "name": "metal_ore",
+        "stackSize": 100000
+      },
+      {
+        "name": "metal_refined",
+        "stackSize": 10000
+      },
+      {
+        "name": "paper",
+        "stackSize": 10000
+      },
+      {
+        "name": "stones",
+        "stackSize": 1000000
+      },
+      {
+        "name": "sulfur",
+        "stackSize": 100000
+      },
+      {
+        "name": "sulfur_ore",
+        "stackSize": 100000
+      },
+      {
+        "name": "wood",
+        "stackSize": 1000000
+      },
+      {
+        "name": "blueberries",
+        "stackSize": 20
+      },
+      {
+        "name": "black raspberries",
+        "stackSize": 20
+      },
+      {
+        "name": "antiradpills",
+        "stackSize": 100
+      },
+      {
+        "name": "bandage",
+        "stackSize": 5
+      },
+      {
+        "name": "largemedkit",
+        "stackSize": 5
+      },
+      {
+        "name": "explosives",
+        "stackSize": 1000
+      },
+      {
+        "name": "chicken_cooked",
+        "stackSize": 100
+      },
+      {
+        "name": "chocolate",
+        "stackSize": 100
+      },
+      {
+        "name": "granolabar",
+        "stackSize": 100
+      },
+      {	
+        "name": "wolfmeat_cooked",
+        "stackSize": 100
+      },
+      {
+        "name": "ammo_pistol",
+        "stackSize": 100
+      },
+      {
+        "name": "ammo_rifle",
+        "stackSize": 100
+      },
+      {
+        "name": "ammo_shotgun",
+        "stackSize": 100
+      },
+      {
+        "name": "arrow_wooden",
+        "stackSize": 100
+      },
+      {
+        "name": "rocket",
+        "stackSize": 100
+      },
+    ]
+  }
+}

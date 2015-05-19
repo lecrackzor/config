@@ -1,0 +1,202 @@
+{
+  "ANIMALS": {
+    "BEAR": "Bear",
+    "BOAR": "Boar",
+    "CHICKEN": "Chicken",
+    "HORSE": "Horse",
+    "STAG": "Deer",
+    "WOLF": "Wolf"
+  },
+  "BODYPARTS": {
+    "ARM": "Arm",
+    "CALF": "Calf",
+    "CLAVICLE": "Clavicle",
+    "EAR": "Ear",
+    "EYE": "Eye",
+    "FINGERS": "Fingers",
+    "FOOT": "Feet",
+    "FOREARM": "Forearm",
+    "GROUP": "Group",
+    "HAND": "Hand",
+    "HEAD": "Head",
+    "HIP": "Hip",
+    "JAW": "Jaw",
+    "JOINT": "Joint",
+    "KNEE": "Knee",
+    "LEG": "Leg",
+    "LIP": "Lips",
+    "MANE": "Mane",
+    "NECK": "Neck",
+    "PELVIS": "Pelvis",
+    "PENIS": "Penis",
+    "ROOTBONE": "Chicken Rootbone",
+    "SHIN": "Shin",
+    "SHOULDER": "Shoulder",
+    "SPINE": "Spine",
+    "STOMACHE": "Stomache",
+    "TAIL": "Tail",
+    "THIGH": "Thigh",
+    "TOE": "Toe",
+    "TONGUE": "Tongue",
+    "ULNA": "Ulna",
+    "UPPERARM": "Upperarm",
+    "WING": "Wing"
+  },
+  "COLORS": {
+    "ANIMAL": "#00FF00",
+    "ATTACKER": "#00FF00",
+    "BODYPART": "#00FF00",
+    "DISTANCE": "#00FF00",
+    "MESSAGE": "#FFFFFF",
+    "PREFIX": "#FF0000",
+    "VICTIM": "#00FF00",
+    "WEAPON": "#00FF00"
+  },
+  "CONFIG_VERSION": 3.5,
+  "MESSAGES": {
+    "ANIMAL DEATH": [
+      "{attacker} killed a {animal}. (In the {bodypart} with {weapon}, from {distance}m)"
+    ],
+    "ANIMAL KILL": [
+      "{victim} killed by a {animal}.",
+      "{victim} wasn't fast enough and a {animal} caught him."
+    ],
+    "ANIMAL KILL SLEEP": [
+      "{victim} killed by a {animal}, while sleeping.",
+      "{animal} caught {victim}, while sleeping."
+    ],
+    "ARROW": [
+      "{attacker} killed {victim} with an arrow on the {bodypart} from {distance}m",
+      "{victim} took an arrow to the knee, and died anyway. (Distance: {distance})"
+    ],
+    "ARROW SLEEP": [
+      "{attacker} killed {victim} with an arrow on the {bodypart}, while {victim} was asleep.",
+      "{attacker} killed {victim} with a {weapon}, while sleeping."
+    ],
+    "BARRICADE": [
+      "{victim} died stuck in a barricade.",
+      "{victim} trapped into a barricade."
+    ],
+    "BLEEDING": [
+      "{victim} bled to death.",
+      "{victim} emptied in blood."
+    ],
+    "BLUNT": [
+      "{attacker} killed {victim}. (With {weapon}, in the {bodypart})",
+      "{attacker} made {victim} die of a {weapon} trauma."
+    ],
+    "BLUNT SLEEP": [
+      "{attacker} killed {victim}, while sleeping. (With {weapon}, in the {bodypart})",
+      "{attacker} killed {victim} with a {weapon}, while sleeping."
+    ],
+    "BULLET": [
+      "{attacker} killed {victim}. (In the {bodypart} with {weapon}, from {distance}m)",
+      "{attacker} made {victim} eat some bullets with a {weapon}."
+    ],
+    "BULLET SLEEP": [
+      "{attacker} killed {victim}, while sleeping. (In the {bodypart} with {weapon}, from {distance}m)",
+      "{attacker} killed {victim} with a {weapon}, while sleeping."
+    ],
+    "COLD": [
+      "{victim} froze to death.",
+      "{victim} is an ice cold dead man."
+    ],
+    "DROWNED": [
+      "{victim} drowned.",
+      "{victim} thought he could swim, but guess not."
+    ],
+    "EXPLOSION": [
+      "{victim} died from a {weapon} explosion.",
+      "A {weapon} blew {victim} into a million little pieces."
+    ],
+    "FALL": [
+      "{victim} died from a big fall.",
+      "{victim} believed he could fly, he believed he could touch the sky!"
+    ],
+    "HEAT": [
+      "{victim} burned to death.",
+      "{victim} turned into a human torch."
+    ],
+    "HUNGER": [
+      "{victim} starved to death.",
+      "{victim} was a bad hunter, and died of hunger."
+    ],
+    "POISON": [
+      "{victim} died poisoned.",
+      "{victim} eat the wrong meat and died poisoned."
+    ],
+    "RADIATION": [
+      "{victim} died from radiation.",
+      "{victim} did not know that radiation kills."
+    ],
+    "SLASH": [
+      "{attacker} slashed {victim} into pieces. (With {weapon}, in the {bodypart})",
+      "{attacker} has sliced {victim} into a million little pieces."
+    ],
+    "SLASH SLEEP": [
+      "{attacker} slashed {victim} into pieces, while sleeping. (With {weapon}, in the {bodypart})",
+      "{attacker} killed {victim} with a {weapon}, while sleeping."
+    ],
+    "STAB": [
+      "{attacker} stabbed {victim} to death. (With {weapon}, in the {bodypart})",
+      "{attacker} stabbed a {weapon} in {victim}'s {bodypart}."
+    ],
+    "STAB SLEEP": [
+      "{attacker} stabbed {victim} to death, while sleeping. (With {weapon}, in the {bodypart})",
+      "{attacker} stabbed {victim}, while sleeping. You sneaky little bastard."
+    ],
+    "SUICIDE": [
+      "{victim} committed suicide.",
+      "{victim} has put an end to his life."
+    ],
+    "THIRST": [
+      "{victim} died of thirst.",
+      "Dehydration has killed {victim}, what a bitch!"
+    ],
+    "TRAP": [
+      "{victim} stepped on a snap trap.",
+      "{victim} did not watch his steps, died on a trap."
+    ]
+  },
+  "SETTINGS": {
+    "BROADCAST TO CONSOLE": true,
+    "MESSAGES RADIUS": 300.0,
+    "PREFIX": "DEATH NOTES",
+    "SHOW ANIMAL DEATH": true,
+    "SHOW ANIMAL KILL": true,
+    "SHOW BARRICADE DEATH": true,
+    "SHOW EXPLOSION DEATH": true,
+    "SHOW MESSAGE IN RADIUS": false,
+    "SHOW METABOLISM DEATH": true,
+    "SHOW PLAYER KILL": true,
+    "SHOW SUICIDES": true,
+    "SHOW TRAP DEATH": true
+  },
+  "WEAPONS": {
+    "AK47U": "AK47U",
+    "BEANCAN": "Bean Can Grenade",
+    "BOLTRIFLE": "Bolt Rifle",
+    "BONEKNIFE": "Bone Knife",
+    "EOKA": "Eoka Pistol",
+    "F1": "F1 Grenade",
+    "HATCHET": "Hatchet",
+    "HATCHET STONE": "Stone Hatchet",
+    "HUNTING": "Hunting Bow",
+    "PICKAXE": "Pickaxe",
+    "REVOLVER": "Revolver",
+    "ROCK": "Rock",
+    "ROCKET": "Rocket Launcher",
+    "SALVAGED AXE": "Salvaged Axe",
+    "SALVAGED HAMMER": "Salvaged Hammer",
+    "SALVAGED ICEPICK": "Salvaged Icepick",
+    "SAWNOFFSHOTGUN": "Sawn-off Shotgun",
+    "SMG": "Costum SMG",
+    "STONE PICKAXE": "Stone Pickaxe",
+    "STONE SPEAR": "Stone Spear",
+    "THOMPSON": "Thompson",
+    "TIMED": "C4",
+    "TORCH": "Torch",
+    "WATERPIPE": "Waterpipe Shotgun",
+    "WOODEN SPEAR": "Wooden Spear"
+  }
+}

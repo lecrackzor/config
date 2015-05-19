@@ -1,0 +1,8 @@
+{
+  "displayVoteProgress": false,
+  "pollRetryTime": 5.0,
+  "pollTimer": 1.5,
+  "requiredVotesPercentage": 0.5,
+  "sunriseHour": 8,
+  "sunsetHour": 18
+}

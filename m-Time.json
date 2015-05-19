@@ -1,0 +1,51 @@
+{
+  "Messages": {
+    "FreezeTimeAlreadyFrozen": "Time is already frozen!",
+    "FreezeTimeSuccess": "You have stopped the time from progressing.",
+    "SetDayLengthSuccess": "You have modified the length of an in-game day to {minutes} minutes.",
+    "SetNightLengthSuccess": "You have modified the length of an in-game night to {minutes} minutes.",
+    "SetTimeSuccess": "Changing the time to {hour}, please wait a moment.",
+    "SyntaxCCommandSetDayLength": [
+      "A Syntax Error Occurred!",
+      "You can only use the env.daylength command as follows:",
+      "env.daylength <length> - Changes the duration of an in-game day to length.",
+      "Length is in minutes and needs to be a value between 5 and 720!"
+    ],
+    "SyntaxCCommandSetNightLength": [
+      "A Syntax Error Occurred!",
+      "You can only use the env.nightlength command as follows:",
+      "env.nightlength <length> - Changes the duration of an in-game day to length.",
+      "Length is in minutes and needs to be a value between 5 and 720!"
+    ],
+    "SyntaxCCommandSetTime": [
+      "A Syntax Error Occurred!",
+      "You can only use the env.time command as follows:",
+      "env.time <hour> - Sets the in-game time to the specified hour, 0 to 24."
+    ],
+    "SyntaxCommandSetDayLength": [
+      "A Syntax Error Occurred!",
+      "You can only use the /setdaylength command as follows:",
+      "/setdaylength <length> - Changes the duration of an in-game day to length.",
+      "Length is in minutes and needs to be a value between 5 and 720!"
+    ],
+    "SyntaxCommandSetNightLength": [
+      "A Syntax Error Occurred!",
+      "You can only use the /setnightlength command as follows:",
+      "/setdaylength <length> - Changes the duration of an in-game day to length.",
+      "Length is in minutes and needs to be a value between 5 and 720!"
+    ],
+    "SyntaxCommandSetTime": [
+      "A Syntax Error Occurred!",
+      "You can only use the /settime command as follows:",
+      "/settime <hour> - Sets the in-game time to the specified hour, 0 to 24."
+    ],
+    "Time": "It's currently {time}",
+    "TimeFrozen": "Time is currently frozen.",
+    "UnfreezeTimeAlreadyRunning": "Time is not frozen!",
+    "UnfreezeTimeSuccess": "You have started time progression."
+  },
+  "Settings": {
+    "ChatName": "Time",
+    "Version": "1.0"
+  }
+}

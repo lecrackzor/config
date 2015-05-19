@@ -1,0 +1,19 @@
+{
+  "Message": {
+    "ChatFormat": "<color=#af5>[AutoDoor]</color> %s",
+    "ChatPlayerIcon": true,
+    "ErrorMax": "The maximum value of time: 10",
+    "ErrorMin": "The minimum value of time: 1",
+    "Help": "/ad [off/<time>] -- set/del time for automatic closing doors",
+    "SuccesOff": "You turn off the automatic closing doors!",
+    "SuccesOn": "Your doors will close automatically after %s sec.",
+    "Syntax": "/ad [off/<time>]"
+  },
+  "Settings": {
+    "Command": "ad",
+    "DataFile": "AutoDoorCloserData",
+    "DefaultTime": 3,
+    "MaxTime": 10,
+    "MinTime": 1
+  }
+}

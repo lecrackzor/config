@@ -1,0 +1,30 @@
+{
+  "Default": {
+    "authLevel": 1,
+    "ChatName": "EVENT",
+    "Count": 5,
+    "On": "true",
+    "PauseeventTime": 30,
+    "StarteventTime": 30
+  },
+  "Reward": {
+    "Random": "true",
+    "Reward1": "wood",
+    "Reward1Amount": 50000,
+    "Reward2": "stones",
+    "Reward2Amount": 50000,
+    "Reward3": "metal_ore",
+    "Reward3Amount": 15000,
+    "Reward4": "sulfur_ore",
+    "Reward4Amount": 15000,
+    "Reward5": "smg_thompson",
+    "Reward5_2": "ammo_pistol",
+    "Reward5_2Amount": 150,
+    "Reward5Amount": 1,
+    "Reward6": "wood",
+    "Reward6Amount": 100000,
+    "RewardFixing": "wood",
+    "RewardFixingAmount": 10000,
+    "RewardMoney": 50000
+  }
+}

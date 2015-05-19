@@ -1,0 +1,39 @@
+{
+  "blocks": [
+    "block.halfheight",
+    "block.halfheight.slanted",
+    "block.stair.lshape",
+    "block.stair.ushape",
+    "floor",
+    "floor.triangle",
+    "foundation",
+    "foundation.steps",
+    "foundation.triangle",
+    "roof",
+    "wall",
+    "wall.doorway",
+    "wall.low",
+    "wall.window",
+    "wall.window.bars"
+  ],
+  "damage": {
+    "Wood Barricade": 900,
+    "Barricade": 900,
+    "Metal": 0,
+    "Stone": 0,
+    "TopTier": 0,
+    "Twigs": 1,
+    "Wood": 0
+  },
+  "messages": {
+    "%GRADE% buildings decay by %DAMAGE% HP per %TIMESPAN% minutes.": "%GRADE% buildings decay by %DAMAGE% HP per %TIMESPAN% minutes.",
+    "%GRADE% buildings do not decay.": "%GRADE% buildings do not decay.",
+    "Barricade": "Barricade",
+    "Metal": "Metal",
+    "Stone": "Stone",
+    "TopTier": "TopTier",
+    "Twigs": "Twigs",
+    "Wood": "Wood"
+  },
+  "timespan": 7
+}

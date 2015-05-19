@@ -1,0 +1,14 @@
+{
+  "Messages: cantUseKit": "You are not allowed to use this kit",
+  "Messages: itemNotFound": "Item not found: ",
+  "Messages: kitredeemed": "You've redeemed a kit",
+  "Messages: kitsreset": "All kits data from players were deleted",
+  "Messages: maxKitReached": "You've used all your tokens for this kit",
+  "Messages: noAccess": "You are not allowed to use this command",
+  "Messages: unknownKit": "This kit doesn't exist",
+  "Settings: authLevel": 1,
+  "Settings: Permissions List": [
+    "vip",
+    "donator"
+  ]
+}

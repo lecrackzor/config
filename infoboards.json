@@ -1,0 +1,54 @@
+{
+  "BOARDS": {
+    "home": {
+      "DESC": "Learn how to use the /home command",
+      "LINES": [
+        "The home command sets a way point to your home you can then easily teleport to.",
+        "To set a home you must first to be on a foundation placed by you, otherwise you cant use the command,",
+        "when your on the foundation type <red>/sethome name<end>, the <red>name<end> its the name of the home",
+        "you will later use to teleport to. Then your home will be saved successfuly.",
+        "Now to teleport to your home type <red>/home name<end>, the <red>name<end> its the name you saved your home with.",
+        "You can remove your home anytime, by typing <red>/removehome name<end>."
+      ],
+      "TITLE": "HOME"
+    },
+    "map": {
+      "DESC": "Learn how to use the Live Map",
+      "LINES": [
+        "<lightblue>To use the server map, open your browser and paste the link below in the URL bar:<end>",
+        "<lightblue>MAP LINK:<end> {ip}:{port}"
+      ],
+      "TITLE": "LIVE MAP"
+    },
+    "motd": {
+      "DESC": "Daily messages with information about the server",
+      "LINES": "This is the message of the day!",
+      "TITLE": "Message Of The Day"
+    },
+    "remover": {
+      "DESC": "Learn how to use the /remover command",
+      "LINES": [
+        "<yellow>The Remover Tool allows you to remove objects or structures by simply hitting the object/structure by following these steps:<end>",
+        "<silver>- You need to place a Tool Cupboard and be authed to it in order to use the remover command.<end>",
+        "<silver>- You must also be authed to any Tool Cupboard around the object/structure if the object/structure is in the<silver>",
+        "<silver>radius of any of these Tool Cupboards. Otherwise you wont be able to remove it.<silver>"
+      ],
+      "TITLE": "REMOVER TOOL"
+    }
+  },
+  "COLORS": {
+    "PREFIX": "red"
+  },
+  "CONFIG_VERSION": 1.0,
+  "MESSAGES": {
+    "AVAILABLE BOARDS": "AVAILABLE BOARDS",
+    "BOARD NOT EXISTS": "Board doesnt exist. Type <red>/info<end> to check the available boards.",
+    "INFO CMD DESCRIPTION": "<white>/info <option> -<end> Prints informational boards into chat.",
+    "SYNTAX USAGE": "<#E85858>Syntax: /info <board name><end>"
+  },
+  "SETTINGS": {
+    "BROADCAST TO CONSOLE": true,
+    "PREFIX": "INFO BOARDS",
+    "PRINT TO CONSOLE": true
+  }
+}

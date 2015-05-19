@@ -1,0 +1,20 @@
+{
+  "Messages": {
+    "AuthLevelChanged": "You changed the required Auth Level to %d!",
+    "AuthLog": " %s by %s (%s)",
+    "Disabled": "Disabled!",
+    "Enabled": "Enabled!",
+    "Help": [
+      "/adu.toggle - Toggle (Enable/Disable) A.D.U!",
+      "/adu.authlevel <n/s> - Change the required auth level to open locked doors."
+    ],
+    "InvalidAuthLevel": "You need pass a valid auth level like: admin, owner, mod, moderator, user, player, 0 or 1 or 2!",
+    "NotAllowed": "You cannot use that command because you don't have the required Auth Level %d!"
+  },
+  "Settings": {
+    "ChatName": "A.D.U",
+    "ConfigVersion": "0.0.4",
+    "Enabled": true,
+    "RequiredAuthLevel": 2
+  }
+}

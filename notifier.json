@@ -1,0 +1,149 @@
+﻿{
+  "ADVERTS": [
+    "Want to know the available commands? Type <red>/help<end>.",
+    "<orange>Respect the server<end> <red>/rules<end>.",
+    "Join us on the TS to plan/gripe or get ahold of admins. Clans get free channels. 84.201.37.238:9987",
+    "<orange> Just Logging on? Finding out you were just raided? It sucks but the great thing about rust is REVENGE! Re-build and get yours!<end>.",
+    "Cheating is strictly prohibited, hackers will be <red>BANNED<end>",
+    "Players Online: <lime>{players} / {maxplayers}<end> Sleepers: <lime>{sleepers}<end>",
+    "<lime>Type /kit for kit options. we offer different varieties of kits. USE kits wisley! HAPPY HUNTING<end>",
+  ],
+  "COLORS": {
+    "ADVERTS": "#CECECE",
+    "JOIN MESSAGE": "#CECECE",
+    "LEAVE MESSAGE": "#CECECE",
+    "PREFIX": "red",
+    "WELCOME MESSAGE": "#CECECE"
+  },
+  "COMMANDS": {
+    "ADMINS LIST": "admins",
+    "PLAYERS LIST": "players",
+    "PLUGINS LIST": "plugins",
+    "RULES": [
+      "rules",
+      "regras",
+      "regles"
+    ],
+    "SEED": "seed",
+    "SERVER MAP": "map"
+  },
+  "CONFIG_VERSION": 3.9,
+  "MESSAGES": {
+    "ADMINS LIST DESC": "<white>/admins -<end> Lists all the Admins currently online.",
+    "ADMINS LIST TITLE": "ADMINS ONLINE",
+    "CHECK CONSOLE NOTE": "Check the console (press F1) for more info.",
+    "JOIN MESSAGE": "<lime>{username} joined the server, from <end><orange>{country}<end>.",
+    "LEAVE MESSAGE": "<lime>{username}<end> left the server.",
+    "NO ADMINS ONLINE": "There are no <cyan>Admins<end> currently online.",
+    "NO LANG": "Language not found in rules list.",
+    "NO RULES": "No rules have been found!.",
+    "ONLY PLAYER": "You are the only survivor online.",
+    "PLAYERS COUNT": "There are <lime>{active}<end> survivors online.",
+    "PLAYERS LIST DESC": "<white>/players -<end> Lists all the players. (Chat/Console)",
+    "PLAYERS LIST TITLE": "PLAYERS ONLINE",
+    "PLAYERS STATS": "<orange>SLEEPERS:<end> <lime>{sleepers}<end> <yellow>|<end> <orange>ALLTIME PLAYERS:<end> <lime>{total}<end>",
+    "PLUGINS LIST DESC": "<white>/plugins -<end> Lists all the server plugins.",
+    "PLUGINS LIST TITLE": "SERVER PLUGINS",
+    "RULES DESC": "<white>/rules -<end> Lists the server rules.",
+    "RULES TITLE": "SERVER RULES",
+    "SEED DESC": "<white>/seed -<end> Shows current server seed. (Unless it is Random)",
+    "SERVER MAP": "SERVER MAP: <lime>{ip}:{port}<end>",
+    "SERVER MAP DESC": "<white>/map -<end> Shows the server map link.",
+    "SERVER SEED": "The server seed is {seed}"
+  },
+  "RULES": {
+    "DE": [
+      "Cheaten ist verboten!",
+      "Respektiere alle Spieler",
+      "Spam im Chat zu vermeiden.",
+      "Spiel fair und missbrauche keine Bugs oder Exploits."
+    ],
+    "DK": [
+      "Snyd er strengt forbudt.",
+      "Respekt alle spillere.",
+      "Undgå spam i chatten.",
+      "Play fair og ikke misbruger af bugs / exploits."
+    ],
+    "EN": [
+      "Cheating is strictly prohibited.",
+      "Respect all players",
+      "Avoid spam in chat.",
+      "Play fair and don't abuse of bugs/exploits."
+    ],
+    "ES": [
+      "Los trucos están terminantemente prohibidos.",
+      "Respeta a todos los jugadores.",
+      "Evita el Spam en el chat.",
+      "Juega limpio y no abuses de bugs/exploits."
+    ],
+    "FR": [
+      "Tricher est strictement interdit.",
+      "Respectez tous les joueurs.",
+      "Évitez le spam dans le chat.",
+      "Jouer juste et ne pas abuser des bugs / exploits."
+    ],
+    "IT": [
+      "Cheating è severamente proibito.",
+      "Rispettare tutti i giocatori.",
+      "Evitare lo spam in chat.",
+      "Fair Play e non abusare di bug / exploit."
+    ],
+    "NL": [
+      "Vals spelen is ten strengste verboden.",
+      "Respecteer alle spelers",
+      "Vermijd spam in de chat.",
+      "Speel eerlijk en maak geen misbruik van bugs / exploits."
+    ],
+    "PT": [
+      "Usar cheats e totalmente proibido.",
+      "Respeita todos os jogadores.",
+      "Evita spam no chat.",
+      "Nao abuses de bugs ou exploits."
+    ],
+    "RU": [
+      "Запрещено использовать читы.",
+      "Запрещено спамить и материться.",
+      "Уважайте других игроков.",
+      "Играйте честно и не используйте баги и лазейки."
+    ],
+    "TR": [
+      "Hile kesinlikle yasaktır.",
+      "Tüm oyuncular Saygı.",
+      "Sohbet Spam kaçının.",
+      "Adil oynayın ve böcek / açıkları kötüye yok."
+    ],
+    "UA": [
+      "Обман суворо заборонено.",
+      "Поважайте всіх гравців",
+      "Щоб уникнути спаму в чаті.",
+      "Грати чесно і не зловживати помилки / подвиги."
+    ]
+  },
+  "SETTINGS": {
+    "ADVERTS INTERVAL": 5,
+    "BROADCAST TO CONSOLE": true,
+    "CHAT PLAYERS LIST": true,
+    "CONSOLE PLAYERS LIST": true,
+    "ENABLE ADMINS LIST CMD": false,
+    "ENABLE ADVERTS": true,
+    "ENABLE HELPTEXT": true,
+    "ENABLE JOIN MESSAGE": true,
+    "ENABLE LEAVE MESSAGE": true,
+    "ENABLE PLAYERS LIST CMD": true,
+    "ENABLE PLUGINS LIST CMD": false,
+    "ENABLE RULES CMD": true,
+    "ENABLE SEED CMD": false,
+    "ENABLE SERVER MAP CMD": true,
+    "ENABLE WELCOME MESSAGE": true,
+    "HIDE ADMINS": false,
+    "PREFIX": "NOTIFIER",
+    "RULES LANGUAGE": "AUTO"
+  },
+  "WELCOME MESSAGE": [
+    "<cyan>Welcome <end><lime>{username}<end><cyan>, to <end><red>NAKED&AFRAID!<end>",
+    "Type <red>/help<end> for all available commands.<>",
+    "<cyan>SERVER IP: <end><lime>192.99.166.9:28015<end>",
+    "<cyan>Come join us on the TeamSpeak:<end><lime>84.201.37.238:9987<end>",
+    "<cyan>Ever want to add custom images to your <end><lime>signs<end><cyan>? or <end><lime>Pets<end><cyan>? <end><red>DONATERS<end> <cyan>will get special privlages on the server!<end>"
+  ]
+}
